@@ -1,25 +1,18 @@
 # 목차
 
-0. **[apk 다운로드 하기](#apk 다운로드 하기)**
 1. **[서비스 소개](#서비스-소개)**
 2. **[기획 배경](#기획-배경)**
 3. **[디자인 컨셉](#디자인-컨셉)**
-4. **[시연 영상](#시연-영상)**
+4. **[시연 화면](#시연-화면)**
 5. **[기술 스택](#기술-스택)**
 6. **[프로젝트 일정 및 산출물](#프로젝트-일정-및-산출물)**
 7. **[프로젝트 폴더 구조](#프로젝트-폴더-구조)**
 8. **[개발 멤버](#개발-멤버)**
 
 
-# 🚙 apk 다운로드 하기
-https://j8a401.p.ssafy.io/
-
-# 🚙 서비스 소개
-
-[![AdventureEveryday](https://img.youtube.com/vi/RDSZdaFqegk/0.jpg)](https://www.youtube.com/watch?v=RDSZdaFqegk)
-
-
-
+# 서비스 소개
+### 🔹 서비스 소개 영상 (02:17)
+[![AdventureEveryday](https://img.youtube.com/vi/2r-MfFdCWfg/0.jpg)](https://www.youtube.com/watch?v=2r-MfFdCWfg)
 
 ### 🔹 개요
 
@@ -31,7 +24,7 @@ https://j8a401.p.ssafy.io/
 - 영어를 흥미롭게 접하고 싶은 아이
 - 일상생활에서 영어를 자주 접하게 하고 그 과정에서 저비용, 고효율의 영어 교육을 원하는 부모님
 
-# 🚙 기획 배경
+# 기획 배경
 
 ### 🔹 배경
 
@@ -55,51 +48,35 @@ https://j8a401.p.ssafy.io/
 - 특정 동화에서 제시하는 그림을 퀴즈 형식으로 맞히는 경험을 통해 재미있게 단어를 익히게 하며, 사물을 완성하면 보상으로 동화를 재생해주어 성취감을 느끼게 한다.
 - 영어 예문을 스스로 만들어서 듣고, 동화를 만들어서 읽어보고 들어보는 경험을 통해 정확한 영어 발음을 계속 접하게 되므로 원어민 선생님에게 영어를 배우도록 하기 위해 지출하던 많은 비용을 절약할 수 있다.
 
-# 🚙 디자인 컨셉
+
+# 디자인 컨셉
 ![designConcept](https://user-images.githubusercontent.com/36323800/231401421-fbdd5cc1-5c56-4826-ad5b-3215fe13cd9f.PNG)
 
 
-# 🚙 시연 화면
+# 시연 화면
+
+|회원가입|로그아웃|탈퇴|
+|:------:|:------:|:------:|
+|<img src="./image/gif/register.gif" width="250" height="530" />|<img src="./image/gif/logout.gif" width="250" height="530" />|<img src="./image/gif/secession.gif" width="250" height="530" />|
+
+|튜토리얼|
+|:------:|
+|<img src="./image/gif/tutorials.gif" width="250" height="530" />|
+
+|홈 탭 - 내 주변 사물 영단어 찾기|홈 탭 - 퀴즈 동화 맞히기|
+|:------:|:------:|
+|<img src="./image/gif/objectDetection_resize.gif" width="250" height="530" />|<img src="./image/gif/QuizTale.gif" width="250" height="530" />|
+
+|나만의 도서관 탭|나만의 단어장 탭|
+|:------:|:------:|
+|<img src="./image/gif/libraryTab.gif" width="250" height="530" />|<img src="./image/gif/wordTab.gif" width="250" height="530" />|
+
+|중복 동화 확인|
+|:------:|
+|<img src="./image/gif/duplicateStory.gif" width="250" height="530" />|
 
 
-### 🔹 회원가입
-<img src="./image/gif/register.gif" width="250" height="530" />
-
-
-### 🔹 튜토리얼
-<img src="./image/gif/tutorials.gif" width="250" height="530" />
-
-
-### 🔹 홈 탭 - 내 주변 사물 영단어 찾기
-<img src="./image/gif/objectDetection_resize.gif" width="250" height="530" />
-
-
-### 🔹 홈 탭 - 퀴즈 동화 맞히기
-<img src="./image/gif/QuizTale.gif" width="250" height="530" />
-
-
-### 🔹 나만의 도서관 탭
-<img src="./image/gif/libraryTab.gif" width="250" height="530" />
-
-
-### 🔹 나만의 단어장 탭
-<img src="./image/gif/wordTab.gif" width="250" height="530" />
-
-
-### 🔹 중복 동화 확인
-<img src="./image/gif/duplicateStory.gif" width="250" height="530" />
-
-
-### 🔹 로그아웃
-<img src="./image/gif/logout.gif" width="250" height="530" />
-
-
-### 🔹 탈퇴
-<img src="./image/gif/secession.gif" width="250" height="530" />
-
-
-
-# 🚙 기술 스택
+# 기술 스택
 
 ### [AI]
 
@@ -143,7 +120,8 @@ https://j8a401.p.ssafy.io/
 - Mattermost
 - Webex
 
-# 🚙 프로젝트 일정 및 산출물
+
+# 프로젝트 일정 및 산출물
 
 ## 프로젝트 일정
 
@@ -203,7 +181,7 @@ https://j8a401.p.ssafy.io/
 
 - 큰 파트 생성
 - 기획 / 화면설계 / DB / 개발 / 배포 / 테스트 / 학습
-    - [ ]  개발 세분화 내용 반영
+    - 개발 세분화 내용 반영
 
 ### Story
 
@@ -241,7 +219,8 @@ https://j8a401.p.ssafy.io/
 
 ![API](./image/api.png)
 
-# 🚙 프로젝트 폴더 구조
+
+# 프로젝트 폴더 구조
 
 ## AI
 
@@ -320,7 +299,8 @@ https://j8a401.p.ssafy.io/
                     \---snapstory
 ```
 
-# 🚙 개발 멤버
+
+# 개발 멤버
 ![TEAM](./image/team.png)
 ## [AI]
 - 김현호 : AI 모델 학습 및 배포, 데이터전처리
